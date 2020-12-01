@@ -28,7 +28,4 @@ A = [1728, 1621, 1856, 1683, 1940, 1097, 1711, 1906, 2008, 1608, 2003, 1990, 186
 sum = 2020
 arr_size = len(A) 
 find3Numbers(A, arr_size, sum)
-
-
-
-# This code is contributed by Smitha Dinesh Semwal 
+# This code is contributed by Smitha Dinesh Semwal
